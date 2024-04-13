@@ -1,5 +1,6 @@
 import requests, time
 
+#function main for running in console
 def main():
     #Input of the file path by the user.                                 
     file_path = input("Enter the file path: ")
